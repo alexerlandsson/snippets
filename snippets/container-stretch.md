@@ -17,17 +17,17 @@ Simple way to give an element 100% viewport width even when placed inside a cont
 ```css
 .container {
   width: 100%;
-	max-width: 800px;
-	margin: 0 auto;
+  max-width: 800px;
+  margin: 0 auto;
   padding: 0 32px;
 }
 
 .stretch {
-	position: relative;
+  position: relative;
   width: 100vw;
-	left: 50%;
-	right: 50%;
-	margin-left: -50vw;
-	margin-right: -50vw;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
 }
 ```
