@@ -14,7 +14,6 @@ Easiest way to create an overflow scroll with scroll snap.
 </div>
 ```
 
-
 ## CSS
 
 ```css
