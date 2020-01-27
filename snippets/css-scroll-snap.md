@@ -19,9 +19,9 @@ Easiest way to create an overflow scroll with scroll snap.
 ```css
 .container {
   overflow: auto;
+  -webkit-overflow-scrolling: touch;
   overscroll-behavior: contain;
   scroll-snap-type: x mandatory;
-  -webkit-overflow-scrolling: touch;
 }
 
 .item {
