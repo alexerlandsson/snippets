@@ -7,11 +7,11 @@ Boilerplate for a basic gulp installation.
 To install gulp and selected dependencies, run the following commands from terminal.
 
 ```bash
-$ npm init
+npm init
 ```
 
 ```bash
-$ npm install --save-dev gulp gulp-sass gulp-rename gulp-clean-css
+npm install --save-dev gulp gulp-sass gulp-rename gulp-clean-css
 ```
 
 ## JavaScript
