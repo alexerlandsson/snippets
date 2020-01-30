@@ -23,7 +23,6 @@ var gulp = require('gulp');
 var sass = require('gulp-sass');
 var rename = require('gulp-rename');
 var minifycss = require('gulp-clean-css');
-var replace = require('gulp-replace');
 
 var paths = {
   sass: {
