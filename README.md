@@ -1,3 +1,3 @@
 # Snippets
 
-Collection of useful snippets.
+> Collection of useful html, css and js snippets.
