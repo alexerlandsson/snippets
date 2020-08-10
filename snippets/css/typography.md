@@ -10,7 +10,7 @@ Basic technics to improve the legibility.
 
 ```scss
 article {
-  @supports (font-size-adjust: 1;) {
+  @supports (font-size-adjust: 1) {
     font-size-adjust: 0.5;
   }
 }
