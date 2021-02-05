@@ -29,13 +29,13 @@ Change resolution on an image depending on browser width. This method could also
     srcset="path_to_image/image?w=600&format=webp 600w,
             path_to_image/image?w=900&format=webp 900w,
             path_to_image/image?w=1200&format=webp 1200w"
-    sizes=" (min-width: 1400px) 1300px,
-            calc(100vw - 32px)"
+    sizes="(min-width: 1400px) 1300px, calc(100vw - 32px)"
   >
   <img
     srcset="path_to_image/image?w=600 600w,
             path_to_image/image?w=900 900w,
             path_to_image/image?w=1200 1200w"
+    sizes="(min-width: 1400px) 1300px, calc(100vw - 32px)"
     src="path_to_image/image?w=1200"
     alt=""
   />
