@@ -17,7 +17,9 @@ Create a file called `.stylelintrc.json` in the project root and copy the follow
       {
         "camelCaseSvgKeywords": true
       }
-    ]
+    ],
+    "color-function-notation": "legacy",
+    "alpha-value-notation": "number"
   }
 }
 ```
