@@ -16,3 +16,6 @@ Snippet used to visually hide elements and only make them accessible through scr
   }
 }
 ```
+
+## Sources
+* [The anatomy of visually-hidden](https://www.tpgi.com/the-anatomy-of-visually-hidden/) by James Edwards
